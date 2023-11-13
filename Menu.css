@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+.row{
+    display:flex;
+}
+.column{
+    flex:40%;
+    padding: 5px;
+}
+img{
+    width:300px;
+    height:300px;
+}
+body{
+    background:linear-gradient(rgb(52, 8, 74),purple)
+}
+h1{
+    color:Gold;
+    font-size:40px;
+}

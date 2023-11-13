@@ -1,0 +1,11 @@
+p{
+    color:gold;
+    font-size:40px;
+    font-family: 'Dancing Script', cursive; 
+}
+body{
+    background:linear-gradient(rgb(52, 8, 74),purple)
+}
+h3{
+    font-size: 50px;
+}

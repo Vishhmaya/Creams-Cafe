@@ -1,0 +1,46 @@
+h1{
+    text-align:center;
+    font-size:80px;
+    color:rgb(171, 147, 8);}
+body{
+    background:linear-gradient(rgb(52, 8, 74),purple)
+}
+
+p{
+    text-align:center;
+    font-size:35px;
+     color:white;}
+   
+ 
+li{
+    display:inline;
+    padding:45px;
+}
+nav{
+    font-size:45px;
+    color:rgba(255, 255, 0, 0.378);}
+    
+a{
+    font-style: italic;
+    color:gold;
+    
+}
+.center{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+cake{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.main{
+    /* background-image: url(https://www.creamscafe.com/wp-content/uploads/2020/04/Waffle-Creams-Royale-Landscape.jpg); */
+    background-image:linear-gradient(rgba(105, 20, 165, 0.558),#968c00),url(https://www.creamscafe.com/wp-content/uploads/2020/04/Waffle-Creams-Royale-Landscape.jpg);
+    height:100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
